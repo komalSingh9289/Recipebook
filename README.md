@@ -16,11 +16,13 @@
 ## Screenshots
 
 #### Home Page  
-![Home Page](path_to_homepage_screenshot.png)  
+![Screenshot (170)](https://github.com/user-attachments/assets/fe755033-6297-4adf-9686-887f555ca895)
 
-#### Contact Us Page  
-![Contact Us Page](path_to_contactus_screenshot.png)  
+#### Search by filter 
+![Screenshot (172)](https://github.com/user-attachments/assets/0a1fe06a-503b-4c9d-89df-9c070a82a31d)
 
+#### Recipe Detail Page
+![Screenshot (173)](https://github.com/user-attachments/assets/daf9e971-7a15-4a2c-bffc-c455ef80027f)
 ---
 
 ## Technologies Used
