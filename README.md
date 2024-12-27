@@ -18,10 +18,10 @@
 #### Home Page  
 ![Screenshot (170)](https://github.com/user-attachments/assets/fe755033-6297-4adf-9686-887f555ca895)
 
-#### Search by filter 
+#### Recipe detail page
 ![Screenshot (172)](https://github.com/user-attachments/assets/0a1fe06a-503b-4c9d-89df-9c070a82a31d)
 
-#### Recipe Detail Page
+#### About Us page
 ![Screenshot (173)](https://github.com/user-attachments/assets/daf9e971-7a15-4a2c-bffc-c455ef80027f)
 ---
 
